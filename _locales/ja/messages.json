@@ -1,0 +1,11 @@
+{
+  "menuItemTranslationSelection": {
+    "message": "選択範囲を翻訳する",
+    "description": "選択範囲の文章を、Google翻訳で翻訳します"
+  },
+  
+    "menuItemTranslationPage": {
+    "message": "このページを翻訳する",
+    "description": "このページを、Google翻訳で翻訳します"
+  }
+}

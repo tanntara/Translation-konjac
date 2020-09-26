@@ -1,0 +1,11 @@
+{
+  "menuItemTranslationSelection": {
+    "message": "Translate selected range ",
+    "description": "Translate selected range with Google Translation"
+  },
+  
+    "menuItemTranslationPage": {
+    "message": "Translate this page",
+    "description": "Translate this page with Google Translation"
+  }
+}
